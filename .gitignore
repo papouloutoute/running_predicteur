@@ -134,8 +134,12 @@ models/*.joblib
 data/raw/*.csv
 data/raw/*.json
 data/raw/*.xlsx
-data/processed/*.csv
+# data/processed/*.csv  # Commenté pour permettre les données d'exemple
 data/processed/*.json
+
+# Permettre les fichiers de données essentiels
+!data/processed/runners_profiles.csv
+!data/processed/training_sessions.csv
 
 # Streamlit
 .streamlit/
