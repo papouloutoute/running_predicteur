@@ -1,2 +1,0 @@
-# Dépendances système pour Streamlit Cloud
-# (Généralement pas nécessaire pour ce projet, mais au cas où) 
