@@ -56,7 +56,7 @@ running_predicteur/
 
 ### 1. Cloner le projet
 ```bash
-git clone <votre-repo>
+git clone git@github.com:papouloutoute/running_predicteur.git
 cd running_predicteur
 ```
 
@@ -206,23 +206,3 @@ jupyter notebook notebooks/01_exploration_donnees.ipynb
 - [ ] Optimisation de la récupération
 - [ ] Analyse des conditions météorologiques
 - [ ] Recommandations nutritionnelles
-
-## 🤝 Contribution
-
-Les contributions sont les bienvenues ! N'hésitez pas à :
-- Signaler des bugs
-- Proposer de nouvelles fonctionnalités
-- Améliorer la documentation
-- Ajouter des tests
-
-## 📄 Licence
-
-Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
-## 👨‍💻 Auteur
-
-Développé avec ❤️ pour la communauté des coureurs.
-
----
-
-**🏃‍♂️ Bon entraînement et bonnes courses ! 🏃‍♀️** 
